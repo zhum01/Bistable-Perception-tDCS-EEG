@@ -1,3 +1,3 @@
-# readme file for mz1391
+# Contents
 
 Contains scripts used to analyze behavioral and EEG data.
